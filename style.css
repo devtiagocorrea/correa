@@ -6,12 +6,12 @@
 
 @font-face{
     font-family: "klavika-bold";
-    src: url("https://github.com/devtiagocorrea/correa/blob/master/klavika-bold.otf");
+    src: url("klavika-bold.otf");
 }
 
 @font-face{
     font-family: "lato-bold";
-    src: url("https://github.com/devtiagocorrea/correa/blob/master/Lato-Black.ttf");
+    src: url("Lato-Black.ttf");
 }
 .clear{
     clear: both;
